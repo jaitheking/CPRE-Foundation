@@ -19,6 +19,14 @@ Understanding the Educational Objectives:
     * Misconception of the stakeholders that much is self-evident and does not need to be stated explicitly.  
         + Results in problems in communication among the involved parties that arise from differences in experience and knowledge.  
 2. Knowing the four major activities of RE  
+    * Elicitation  
+        + Different techniques are used to **obtain requirements** from stakeholders and other sources and to refine the requirements in greater detail.
+    * Documentation
+        + The elicited requirements are described adequately and different techniques are used to **document** the requirements **by using** natural **language or conceptual models** 
+    * Validation and Negotation
+        + Documented requirements must be **validated and negotiated early on** to guarantee that the predefined quality criteria are met.
+    * Management
+        + **Requirements** management is orthogonal to all other activities and comprises any measures that are necessary to **structure** requirements, to prepare them so that they can be used by different roles, to maintain consistency after changes, and to ensure their implementation.                                  
 3. Knowing the role of communication in RE  
 4. Knowing skills of a requirements engineer  
 5. Knowing the three kinds of requirements  
