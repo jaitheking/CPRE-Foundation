@@ -8,9 +8,8 @@ Chapter 1
 |**Requirement**| 1.  A condition or capability needed by a user to solve a problem/ achieve an objective.  <br> 2. A condition or capability that must be met or possessed by a system or system component to satisfy a contract, standard, specification, or other formally imposed documents.  <br>3. A documented representation of a condition or capabilit as in (1) or (2). _[IEEE Std. 610.12.-1990]_|
 **, Stakeholder, Requirements Engineering, Functional Requirement, Quality Requirement, Constraint**  
 
-
-
 Understanding the Educational Objectives:  
+
 1. Knowing symptoms of and reasons for inadequate RE  
     * Requirements are missing or not clearly formulated.  
         + If the requirements do **not** reflect customer wishes precisely  
