@@ -12,11 +12,11 @@ Chapter 1
 
 Understanding the Educational Objectives:  
 1. Knowing symptoms of and reasons for inadequate RE  
-    * Requirements are missing or not clearly formulated.
-        + If the requirements do **not** reflect customer wishes precisely
-        + If the requirements are described in an imprecise way 
-    * Misconception of the stakeholders that much is self-evident and does not need to be stated explicitly.
-        + Results in problems in communication among the involved parties that arise from differences in experience and knowledge.
+    * Requirements are missing or not clearly formulated.  
+        + If the requirements do **not** reflect customer wishes precisely  
+        + If the requirements are described in an imprecise way   
+    * Misconception of the stakeholders that much is self-evident and does not need to be stated explicitly.  
+        + Results in problems in communication among the involved parties that arise from differences in experience and knowledge.  
 2. Knowing the four major activities of RE  
 3. Knowing the role of communication in RE  
 4. Knowing skills of a requirements engineer  
