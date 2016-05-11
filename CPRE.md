@@ -5,7 +5,7 @@ Chapter 1
 ---------
 |Terms  | Definition  |
 |-------|-------------|
-|**Requirement**| 1.  A condition or capability needed by a user to solve a problem/ achieve an objective. 2. A condition or capability that must be met or possessed by a system or system component to satisfy a contract, standard, specification, or other formally imposed documents.|
+|**Requirement**| 1.  A condition or capability needed by a user to solve a problem/ achieve an objective.  2. A condition or capability that must be met or possessed by a system or system component to satisfy a contract, standard, specification, or other formally imposed documents.|
 **, Stakeholder, Requirements Engineering, Functional Requirement, Quality Requirement, Constraint**  
 
 
