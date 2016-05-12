@@ -74,7 +74,19 @@ Understanding the Educational Objectives:
         + **It is a requirement that pertains to a quality concern that is not covered by functional requirements**  
     * Constraint
         + **It is  a requirement that limits the solution space beyong what is necessary for meeting the given functional requirements and quality requirements.**
-        + It is not implemented but instead they are adhered to because they merely limit the solution space available during the development process.              
+        + It is not implemented but instead they are adhered to because they merely limit the solution space available during the development process.                
+
 6. Knowing the role of quality requirements  
-  
+    * Requirements engineer should place emphasis on the elicitation, documentation, and negotiation of quality requirements during the development process.
+    * ISO Standard 9126 suggests a classification scheme for quality requirements as a standard structure for requirements documentation and as a checklist for requirements elicitation and validation
+        + Requirements that define the quality of system functions, in particular with regard to appropriateness, security and safety, accurateness of calculations, interoperability, and respective conformity to standards
+        + Requirements that define the dependability of functionalities, in particular with regard to robustness, fault tolerance, and recoverability
+        + Requirements that define the usability of a system, in particular with regard to understandability, learnability, and ease of use
+        + Requirements that define the system efficiency, in particular with regard to time behavior (e.g., computation time) or consumption behavior (e.g., resource utilization)
+        + Requirements that define the changeability of a system, in particular with regard to analyzability, changeability, stability, and testability
+        + Requirements that define the portability of a system, in particular with regard to adaptability, installability, and respective conformity to standards as well as replaceability  
+    * Requirements engineer is  responsible for making sure the quality requirements are as objective and verifiable as possible which leads to the quality requirements being quantified.
+        + For example, a quality requirement with regard to system efficiency could specify that a system shall process 95% of all queries within 1.5 seconds...
+    * Since quality requirements are often related to different functional requirements, these requirements should always be kept separated from functional requirements and should be documented separately, with explicit documentation of their relation to functional requirements.  
+                
 -------------------
