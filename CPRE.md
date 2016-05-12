@@ -35,7 +35,36 @@ Understanding the Educational Objectives:
     * Communication is a language-based expression of knowledge which is necessarily simplifying in nature. 
         + Simplifications can become problematic with regard to requirements, as requirements can become interpretable in different ways.  
         
-4. Knowing skills of a requirements engineer
-      
+4. Knowing skills of a requirements engineer  
+    * Role : The one who has direct contact with the stakeholders and has both the ability and the responbility to become as familiar as possible with the domain and to understand it as well as possible as well as the one that identifies the needs underlying the stakeholders' statements and amends them in a way that architects and developers, usually laymen where the domain in question is concerned can understand and implement them.
+        + A translator that understands the domain as well as its particular language well enough and also possesses enough IT know-how to be aware of the problems the developers face and to be able to communicate with them on the same level.  
+    * Characteristics of a requirements engineer:
+        + Analytic thinking 
+            - Must be able to become familiar with unknown domains.
+            - Must understand and analyze complicated problems and relationships.
+            - Must be able to abstract from the concrete statements of the stakeholders.
+        + Empathy
+            - To have good intuition and empathy for people.
+            - Identify problems that might arise in a group of stakeholders and act accordingly.
+        + Communication skills
+            - Elicit the requirements from stakeholders and to interpret them correctly and communicate them in a suitable manner
+            - Must have good communication skills.
+            - Must be able to listen, ask the right questions at the right time, notice when a statement does not contain the desired information and make further inquires when necessary.
+        + Conflict resolution skills
+            - Must identify conflicts
+            - Mediate between the parties involved
+            - Apply techniques suitable to resolving the conflict.
+        + Moderation skills
+            - Must be able to mediate between different opinions and lead discussions. This applies for individual conversations, group conversations and workshops.
+        + Self-confidence
+            - Needs a high level of self-confidence
+            - Ability to defend oneself if strong objections to one's opinions arise.
+            - Never take criticism personally.
+        + Persuasiveness
+            - An attorney for the requirements of the stakeholders
+            - Must be able to represent the requirements in team meetings and presentations.
+            - Must consolidate differing opinions, facilitate a decision in case of a disagreement and create consensus among the stakeholders.
+           
 5. Knowing the three kinds of requirements  
 6. Knowing the role of quality requirements  
+-------------------
