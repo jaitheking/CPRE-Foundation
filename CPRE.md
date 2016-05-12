@@ -27,7 +27,15 @@ Understanding the Educational Objectives:
         + Documented requirements must be **validated and negotiated early on** to guarantee that the predefined quality criteria are met.
     * Management
         + **Requirements** management is orthogonal to all other activities and comprises any measures that are necessary to **structure** requirements, to prepare them so that they can be used by different roles, to maintain consistency after changes, and to ensure their implementation.                                  
-3. Knowing the role of communication in RE  
-4. Knowing skills of a requirements engineer  
+3. Knowing the role of communication in RE 
+    * It is sensible to agree upon a common language and how this common language is to be used such as using **glossaries**, in which all important terms are explained.
+        + This can be done by agreeing upon a formal descriptive language, e.g., OMG's Unified Modeling Language, UML
+    * Communication medium is an important factor to consider. The success of the communication relies heavily on redundancy for verbal communication whereas information is transmitted with a minimum of redundancy and feedback in written technical communication.
+    * Problems arises from differing domain vocabularies and different communication media.
+    * Communication is a language-based expression of knowledge which is necessarily simplifying in nature. 
+        + Simplifications can become problematic with regard to requirements, as requirements can become interpretable in different ways.  
+        
+4. Knowing skills of a requirements engineer
+      
 5. Knowing the three kinds of requirements  
 6. Knowing the role of quality requirements  
