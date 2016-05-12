@@ -65,6 +65,16 @@ Understanding the Educational Objectives:
             - Must be able to represent the requirements in team meetings and presentations.
             - Must consolidate differing opinions, facilitate a decision in case of a disagreement and create consensus among the stakeholders.
            
-5. Knowing the three kinds of requirements  
+5. Knowing the three kinds of requirements
+    * Functional Requirement
+        + **It is a requirement concerning a result of behavior that shall be provided by a function of the system.**
+    * Quality Requirement
+        + It defines desired qualities of the system to be developed and often influence the system architecture more than functional requirements do.
+        + It is about the performance, availibility, dependability, scabability, or portability of a system. These requirements are frequently classified as non-functional requirements.
+        + **It is a requirement that pertains to a quality concern that is not covered by functional requirements**  
+    * Constraint
+        + **It is  a requirement that limits the solution space beyong what is necessary for meeting the given functional requirements and quality requirements.**
+        + It is not implemented but instead they are adhered to because they merely limit the solution space available during the development process.              
 6. Knowing the role of quality requirements  
+  
 -------------------
